@@ -1,0 +1,20 @@
+body {
+    background-image:url('https://cdn.pixabay.com/photo/2015/06/19/21/24/avenue-815297_640.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  h1 {
+    color: rgb(9, 31, 74);
+  }
+  p
+  {
+    color:rgb(210, 0, 0)
+  }
+  li{color: brown;} 
+#welcom{
+  background-color: chocolate;
+}
+#olul{
+background-color: blue;
+}
+table{color: chartreuse;}
